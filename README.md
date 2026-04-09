@@ -1,4 +1,4 @@
-# nlsh
+# networkluki shell scripts
 
 Professional shell scripts for setup, maintenance, and upgrades on Debian/Ubuntu-based systems.
 
