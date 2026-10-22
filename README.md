@@ -1,5 +1,8 @@
 # networkluki shell scripts
 
+**[Changelog / Release History](CHANGELOG.md)**
+
+
 Professional shell scripts for setup, maintenance, and upgrades on Debian/Ubuntu-based systems.
 
 ## Purpose
